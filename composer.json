@@ -1,5 +1,5 @@
 {
-	"name": "coolsms/php-sdk",
+	"name": "airteltour/php-sdk",
 	"description": "Send message using PHP and RestAPI[TEST]",
 	"type": "library",
 	"keywords": ["coolsms", "nurigo", "sms", "message", "messages", "cool", "textmessage", "mobile", "cellphone", "phone", "mms", "lms", "global"],
